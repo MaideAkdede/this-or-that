@@ -4,4 +4,4 @@ L'application This Or That propose quotidiennement le choix entre deux produits 
 
 1. [MoodBoard](https://www.pinterest.fr/m_akd/moodboard_this_or_that/) sur pinterest.
 2. [WireFrame](https://github.com/MaideAkdede/this-or-that/tree/master/wireframe) sur AdobeXD.
-3. Maquette :à venir:
+3. [Design](https://github.com/MaideAkdede/this-or-that/tree/master/Design) prototype sur AdobeXD (pas encore terminé).
